@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b49d51e1-c235-4756-85bc-5fed8d25f017" name="Changes" comment="WPL2 toevoeging" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="afefb4ab-85cd-413c-9f75-2e11d55d8513" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="afefb4ab-85cd-413c-9f75-2e11d55d8513" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/jarno/OneDrive/Documents/Github/41dvo1070-werkplekleren-1-portfolio-25-26-grdvo-JarnoRuttenPXL" value="35v1DHBLklD77JWAPaeJtyT0cnY" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JarnoRuttenPXL&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/webpxl/41dvo1070-werkplekleren-1-portfolio-25-26-grdvo-JarnoRuttenPXL&quot;,
+    &quot;accountId&quot;: &quot;b11523d3-3d9a-4cf5-ae27-e0dcf5116ea7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="35v1DHBLklD77JWAPaeJtyT0cnY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jarno/OneDrive/Documents/Github/41dvo1070-werkplekleren-1-portfolio-25-26-grdvo-JarnoRuttenPXL&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jarno\OneDrive\Documents\Github\41dvo1070-werkplekleren-1-portfolio-25-26-grdvo-JarnoRuttenPXL\portfolio" />
+      <recent name="C:\Users\jarno\OneDrive\Documents\Github\41dvo1070-werkplekleren-1-portfolio-25-26-grdvo-JarnoRuttenPXL\Images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-WS-252.28539.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49d51e1-c235-4756-85bc-5fed8d25f017" name="Changes" comment="" />
+      <created>1763975610024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763975610024</updated>
+      <workItem from="1763975611235" duration="288000" />
+      <workItem from="1763975906575" duration="888000" />
+      <workItem from="1764592312209" duration="621000" />
+      <workItem from="1765488706574" duration="1260000" />
+      <workItem from="1765530271057" duration="4289000" />
+      <workItem from="1766137967973" duration="4534000" />
+      <workItem from="1766580186634" duration="49000" />
+      <workItem from="1768329643693" duration="7653000" />
+      <workItem from="1768339221866" duration="6018000" />
+      <workItem from="1768422051911" duration="4871000" />
+      <workItem from="1768809595221" duration="72000" />
+      <workItem from="1768912163532" duration="296000" />
+      <workItem from="1768912894129" duration="2323000" />
+      <workItem from="1768918837699" duration="1147000" />
+      <workItem from="1768921278496" duration="806000" />
+      <workItem from="1772108865122" duration="222000" />
+      <workItem from="1779969504238" duration="2372000" />
+      <workItem from="1779972181489" duration="1127000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1765488837691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765488837691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1765489373807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765489373807</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1765532164323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765532164323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added bootstrap">
+      <option name="closed" value="true" />
+      <created>1765532688791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765532688791</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added bootstrap">
+      <option name="closed" value="true" />
+      <created>1765532721918</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765532721918</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Naam in &lt;p&gt;">
+      <option name="closed" value="true" />
+      <created>1765532804692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765532804692</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homepage">
+      <option name="closed" value="true" />
+      <created>1766142680758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766142680758</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homepage + Portfolio">
+      <option name="closed" value="true" />
+      <created>1768330679411</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768330679411</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Enkel header moet nog afgemaakt worden">
+      <option name="closed" value="true" />
+      <created>1768345251184</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768345251184</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Alles af behalve Readme met bronnen nog maken">
+      <option name="closed" value="true" />
+      <created>1768424960582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768424960582</updated>
+    </task>
+    <task id="LOCAL-00011" summary="/portfolio enkel nog readme">
+      <option name="closed" value="true" />
+      <created>1768428621638</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768428621640</updated>
+    </task>
+    <task id="LOCAL-00012" summary="WPL2 toevoeging">
+      <option name="closed" value="true" />
+      <created>1779973109132</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779973109132</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Added bootstrap" />
+    <MESSAGE value="Naam in &lt;p&gt;" />
+    <MESSAGE value="Homepage" />
+    <MESSAGE value="Homepage + Portfolio" />
+    <MESSAGE value="Enkel header moet nog afgemaakt worden" />
+    <MESSAGE value="Alles af behalve Readme met bronnen nog maken" />
+    <MESSAGE value="/portfolio enkel nog readme" />
+    <MESSAGE value="WPL2 toevoeging" />
+    <option name="LAST_COMMIT_MESSAGE" value="WPL2 toevoeging" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
