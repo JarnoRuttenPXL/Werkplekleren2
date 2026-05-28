@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jarno Rutten - Portfolio</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+<header class="navbar" id="top">
+    <button
+            class="nav-toggle"
+            type="button"
+            aria-label="Menu"
+            aria-controls="primary-navigation"
+            aria-expanded="false"
+    >
+        ☰
+    </button>
+
+    <nav class="nav-left" id="primary-navigation" aria-label="Hoofdmenu">
+        <a class="nav-link" href="#home">Home</a>
+        <a class="nav-link" href="#portfolio">Portfolio</a>
+        <a class="nav-link" href="#about">Over mij</a>
+        <a class="nav-link" href="#contact">Contact</a>
+    </nav>
+
+    <a class="nav-right nav-brand" href="#home">Jarno Rutten</a>
+</header>
+
+<main>
+    <section class="hero" id="home">
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+            <div class="profile-image">
+                <img src="Images/ProfielFoto.jpg" alt="Profielfoto Jarno Rutten" />
+            </div>
+
+            <div class="hero-text">
+                <h1>Jarno Rutten</h1>
+                <p>Digitale vormgever</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="page" id="portfolio" aria-labelledby="portfolio-title">
+        <div class="portfolio">
+            <h1 id="portfolio-title" class="portfolio__title">Portfolio</h1>
+
+            <div class="grid" role="list">
+                <article
+                        class="card"
+                        role="listitem"
+                        tabindex="0"
+                        data-title="Boodschappen-app"
+                        data-vak="UX design"
+                        data-image="images/boodschappenApp.png"
+                        data-description="Voor het vak UX Design ontwikkelden we in een team van drie een boodschappenapp waarmee gebruikers eenvoudig producten kunnen bestellen en laten leveren. Daarnaast implementeerden we een lijstjesfunctie waarmee je je boodschappen kunt organiseren per gelegenheid of voorkeur, zoals Kerstmis, vegetarisch, BBQ en meer."
+                >
+                    <div class="card__media">
+                        <img
+                                src="images/boodschappenApp.png"
+                                alt="Mockups van een boodschappen-app"
+                                loading="lazy"
+                        />
+                    </div>
+
+                    <div class="card__titlebar">
+                        <h2 class="card__title">Boodschappen-app</h2>
+                    </div>
+
+                    <div class="card__body">
+                        <p class="card__meta"><span>Vak:</span> UX design</p>
+                        <p class="card__text">
+                            Voor het vak UX Design ontwikkelden we in een team van drie een
+                            boodschappenapp waarmee gebruikers eenvoudig producten kunnen
+                            bestellen en laten leveren. Daarnaast implementeerden we een
+                            lijstjesfunctie...
+                        </p>
+                    </div>
+                </article>
+
+                <article
+                        class="card"
+                        role="listitem"
+                        tabindex="0"
+                        data-title="Take-away website"
+                        data-vak="Scripting"
+                        data-image="images/TakeawayWebsite.png"
+                        data-description="WPL2 case
+Beschrijving van de case:
+Ontwikkelde interactieve museumervaring en doelgroepgerichte branding voor Musea Maaseik, met speelse storytelling, educatieve mini-games en visuele routes voor kinderen, gezinnen en volwassen bezoekers.
+Jouw aandeel hierin:
+research fase, schetsen, logo, moodboard, prototype, componentenbibliotheek, brandbook." >
+                    <div class="card__media">
+                        <img
+                                src="images/TakeawayWebsite.png"
+                                alt="Preview van een take-away website"
+                                loading="lazy"
+                        />
+                    </div>
+
+                    <div class="card__titlebar">
+                        <h2 class="card__title">Take-away website</h2>
+                    </div>
+
+                    <div class="card__body">
+                        <p class="card__meta"><span>Vak:</span> Scripting</p>
+                        <p class="card__text">
+                            Voor het vak Scripting ontwikkelde ik een take-away-website met
+                            HTML, CSS en JavaScript. Ik stond in voor zowel het design als de
+                            volledige uitwerking...
+                        </p>
+                    </div>
+                </article>
+
+                <article
+                        class="card"
+                        role="listitem"
+                        tabindex="0"
+                        data-title="Onthaal jobbeurs Mosa-rt"
+                        data-vak="Middelbare school Mosa-rt"
+                        data-image="images/onthaal.png"
+                        data-description="Tijdens Mosa-rt op mijn middelbare school hielp ik mee aan het onthaal: ik ontving bezoekers en begeleidde hen naar hun stand. Daarnaast ondersteunde ik de cafetaria door bedrijven te voorzien van drank."
+                >
+                    <div class="card__media">
+                        <img
+                                src="images/onthaal.png"
+                                alt="Foto van een jobbeurs onthaal"
+                                loading="lazy"
+                        />
+                    </div>
+
+                    <div class="card__titlebar">
+                        <h2 class="card__title">Onthaal jobbeurs Mosa-rt</h2>
+                    </div>
+
+                    <div class="card__body">
+                        <p class="card__meta">Middelbare school Mosa-rt</p>
+                        <p class="card__text">
+                            Tijdens Mosa-rt op mijn middelbare school hielp ik mee aan het
+                            onthaal: ik ontving bezoekers en begeleidde hen naar hun stand...
+                        </p>
+                    </div>
+                </article>
+                <article
+                        class="card"
+                        role="listitem"
+                        tabindex="0"
+                        data-title="Missie Maasland"
+                        data-vak="Werkplekleren 2"
+                        data-image="images/missie-maasland.jpg"
+                        data-description="WPL2 case
+
+Beschrijving van de case: Ontwikkelde interactieve museumervaring en doelgroepgerichte branding voor Musea Maaseik, met speelse storytelling, educatieve mini-games en visuele routes voor kinderen, gezinnen en volwassen bezoekers.
+
+Jouw aandeel hierin: research fase, schetsen, logo, moodboard, prototype, componentenbibliotheek, brandbook."
+                >
+                    <div class="card__media">
+                        <img
+                                src="images/missie-maasland.jpg"
+                                alt="Visual van het project Missie Maasland voor Musea Maaseik"
+                                loading="lazy"
+                        />
+                    </div>
+
+                    <div class="card__titlebar">
+                        <h2 class="card__title">Missie Maasland</h2>
+                    </div>
+
+                    <div class="card__body">
+                        <p class="card__meta"><span>Vak:</span> Werkplekleren 2</p>
+                        <p class="card__text">
+                            Ontwikkelde interactieve museumervaring en doelgroepgerichte branding voor Musea
+                            Maaseik, met speelse storytelling, educatieve mini-games en visuele routes voor
+                            kinderen, gezinnen en volwassen bezoekers.
+                        </p>
+                    </div>
+                </article>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="page3" id="about" aria-labelledby="about-title">
+        <div class="about">
+            <div class="about__content">
+                <h1 id="about-title">Over mij</h1>
+
+                <div class="about__text">
+                    <p>
+                        Hey! Ik ben Jarno Rutten, 19 jaar, en ik studeer Digitale Vormgeving aan
+                        PXL in Hasselt. Ik woon in Dilsen-Stokkem en ben elke dag bezig met het
+                        verfijnen van mijn skills in digitale creatie van concept tot een strak en
+                        gebruiksvriendelijk eindresultaat.
+                    </p>
+
+                    <p>
+                        Mijn grootste passie ligt bij het ontwerpen van websites en apps. Ik hou
+                        ervan om visuele stijl te combineren met duidelijke structuur en een
+                        prettige gebruikerservaring. Voor mij draait goed design niet alleen om
+                        “mooi”, maar vooral om doordacht, intuïtief en functioneel.
+                    </p>
+
+                    <p>
+                        Op mijn portfolio vind je een selectie van projecten waarin ik mijn aanpak
+                        toon: modern design, oog voor detail en een sterke focus op
+                        gebruikersgericht denken. Ik sta altijd open voor nieuwe uitdagingen,
+                        samenwerkingen en kansen om bij te leren en te groeien.
+                    </p>
+
+                    <p class="about__lead">
+                        Interesse in een samenwerking of een project?<br />
+                        Neem gerust contact met me op, ik denk graag mee.
+                    </p>
+                </div>
+
+                <button class="btn" id="contactBtn" type="button">Contact</button>
+            </div>
+
+            <figure class="about__media">
+                <img src="Images/profile.jpg" alt="Portretfoto" loading="lazy" />
+            </figure>
+        </div>
+    </section>
+
+    <section class="page4" id="contact" aria-labelledby="contact-title">
+        <div class="jr-contact-page">
+            <h1 class="jr-contact-title" id="contact-title">Contact</h1>
+
+            <section class="jr-contact-grid" aria-label="Contact sectie">
+                <article class="jr-contact-card jr-contact-card--left">
+                    <ul class="jr-contact-list">
+                        <li class="jr-contact-item">
+                <span class="jr-contact-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.08 4.18 2 2 0 0 1 4.06 2h3a2 2 0 0 1 2 1.72c.12.86.3 1.7.54 2.5a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.58-1.06a2 2 0 0 1 2.11-.45c.8.24 1.64.42 2.5.54A2 2 0 0 1 22 16.92Z"/>
+                  </svg>
+                </span>
+                            <span class="jr-contact-text">+32 468 31 30 12</span>
+                        </li>
+
+                        <li class="jr-contact-item">
+                <span class="jr-contact-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M4 4h16v16H4z"/>
+                    <path d="M22 6 12 13 2 6"/>
+                  </svg>
+                </span>
+                            <a class="jr-contact-link" href="mailto:jarno.rutten@hotmail.be">Jarno.rutten@hotmail.be</a>
+                        </li>
+
+                        <li class="jr-contact-item">
+                <span class="jr-contact-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <path d="M2 12h20"/>
+                    <path d="M12 2a15 15 0 0 1 0 20"/>
+                    <path d="M12 2a15 15 0 0 0 0 20"/>
+                  </svg>
+                </span>
+                            <a class="jr-contact-link" href="https://jarnoruttenportfolio.netlify.app/" target="_blank" rel="noreferrer">
+                                https://jarnoruttenportfolio.netlify.app/
+                            </a>
+                        </li>
+                    </ul>
+
+                    <div class="jr-contact-profile">
+                        <img class="jr-contact-profile__img" src="Images/ProfielFoto.jpg" alt="Profielfoto van Jarno Rutten" />
+                        <div class="jr-contact-profile__meta">
+                            <div class="jr-contact-profile__name">Jarno Rutten</div>
+                            <div class="jr-contact-profile__role">Digitale vormgever</div>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="jr-contact-card jr-contact-card--right">
+                    <h2 class="jr-contact-cardTitle">Vragen?</h2>
+                    <p class="jr-contact-cardSubtitle">
+                        Interesse om samen te werken of wil je meer info? Laat hieronder je gegevens achter en ik neem zo snel mogelijk contact met je op.
+                    </p>
+
+                    <form class="jr-contact-form" id="jrContactForm" novalidate>
+                        <label class="jr-contact-srOnly" for="jrName">Naam</label>
+                        <input id="jrName" name="name" type="text" placeholder="Naam:" autocomplete="name" />
+
+                        <label class="jr-contact-srOnly" for="jrEmail">E-mailadres</label>
+                        <input id="jrEmail" name="email" type="email" placeholder="E-mailadres:" autocomplete="email" />
+
+                        <label class="jr-contact-srOnly" for="jrMessage">Vraag</label>
+                        <textarea id="jrMessage" name="message" placeholder="Vraag:" rows="7"></textarea>
+
+                        <div class="jr-contact-formRow">
+                            <button class="jr-contact-btn" id="jrContactSubmit" type="submit">Verstuur</button>
+                            <p class="jr-contact-status" id="jrContactStatus" role="status" aria-live="polite"></p>
+                        </div>
+                    </form>
+                </article>
+            </section>
+        </div>
+    </section>
+</main>
+
+<div class="modal" id="modal" aria-hidden="true">
+    <div class="modal__overlay" data-close></div>
+
+    <div class="modal__dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal__close" type="button" aria-label="Sluit" data-close>✕</button>
+
+        <div class="modal__content">
+            <img class="modal__img" id="modal-img" alt="" />
+            <div class="modal__text">
+                <h3 class="modal__title" id="modal-title"></h3>
+                <p class="modal__meta" id="modal-meta"></p>
+                <p class="modal__desc" id="modal-desc"></p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
